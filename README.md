@@ -13,5 +13,5 @@ Flutter plugin for Google Health Connect integration. Health Connect gives you a
 - This package requires Flutter `2.5.0` or higher.
 
 ## How to install
-refer : https://magz.techover.io/2021/08/27/flutter-huong-dan-dua-plugin-len-pub-dev/
+refer : https://pub.dev/packages/flutter_health_connect
 
